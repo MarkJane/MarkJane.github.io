@@ -68,4 +68,6 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type:git
+  repo:https://github.com/MarkJane/markjane.github.io.git
+  branch:master
