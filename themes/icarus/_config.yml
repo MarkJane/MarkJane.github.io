@@ -17,7 +17,7 @@ customize:
         enabled: true # Whether to show profile bar
         avatar: css/images/avatar.png
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-        author: MarkJane
+        author: 马克|Mark
         author_title: Web & PHP Developer
         location: 合肥, China
         follow: /
